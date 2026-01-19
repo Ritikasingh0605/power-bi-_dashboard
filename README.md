@@ -1,2 +1,2 @@
 # power-bi-_dashboard
-this is car sales powerbi dashboard 
+This is a powerbi cars sales dashboard 
